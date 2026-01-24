@@ -25,6 +25,29 @@ HTML, CSS, JavaScript
 **Live Demo:**  
 [View Live Project](https://to-do-list-80.netlify.app/)
 
+**Image:** 
+<br>
+<img width="50%" height="50%" alt="Screenshot (341)" src="https://github.com/user-attachments/assets/3a4f57ab-8281-4084-858d-3045c461d783" />
+
+</p>
+<br>
+<p align="center">
+ <h3> Day 2- Digital Clock</h3>
+
+<strong>**Project Overview:**  </strong>
+This Digital Clock is a real-time web application built using HTML, CSS, and JavaScript. It displays the current time in a 12-hour format with AM/PM, along with the current date and day. The clock updates automatically without refreshing the page, showcasing dynamic DOM manipulation and time-based functionality.
+
+The project also features an automatic day and night theme that changes based on the user’s local time, improving visual clarity and user experience. This project helped strengthen core JavaScript concepts such as the Date object, conditional logic, and real-time updates using setInterval.
+
+**Technologies Used:**  
+HTML, CSS, JavaScript
+
+**Live Demo:**  
+[View Live Project](https://digital-clock-80.netlify.app/)
+
+**Image:**  
+<img width="50%" height="50%" alt="Screenshot (345)" src="https://github.com/user-attachments/assets/5d3a479c-975e-418c-8f2d-5369c195c41a" />
+
 </p>
 
 <br>
