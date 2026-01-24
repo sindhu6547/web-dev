@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI',sans-serif;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background 0.5s,color 0.5s;
+}
+.clock-container{
+    padding: 40px 60px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.3);
+}
+#time{
+    font-size: 60px;
+    letter-spacing: 15px;
+    margin: 10px 0;
+}
+#ampm{
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+#day-date{
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+.day{
+    background: #e0f2fe;
+    color: #0f172a;
+}
+.day .clock-container{
+    background: #ffffff;
+}
+.night{
+    background: #020617;
+    color: #e0f2fe;
+}
+.night .clock-container{
+    background: #020617;
+    box-shadow: 0 0 25px rgba(34,211,238,0.4);
+}
