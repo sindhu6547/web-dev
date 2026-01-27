@@ -88,7 +88,22 @@ HTML, CSS, JavaScript
 <img width="1059" height="535" alt="Screenshot 2026-01-26 150515" src="https://github.com/user-attachments/assets/4663a0cd-24fb-44e5-a435-80c22bad2db8" />
 
 </p>
+<p align="center"> <h3> Day 5 – Background Changer Application</h3>
 
+**Project Overview:**
+<br>The <strong>Background Changer application</strong> is an interactive <strong>front-end project</strong> designed to enhance user experience through <strong>dynamic visual customization</strong>. It allows users to <strong>change the background color</strong> using a color picker, generate <strong>random solid colors</strong>, apply <strong>random gradient backgrounds</strong>, and toggle between <strong>dark and light themes</strong> — all without reloading the page.<br>
+This project focuses on <strong>real-time DOM manipulation</strong> using <strong>JavaScript event handling</strong> to respond instantly to user interactions such as clicks and input changes. It demonstrates how <strong>CSS styles</strong> can be dynamically updated through JavaScript to modify the application’s appearance, including background colors, gradients, and theme modes. The project also emphasizes writing <strong>clean helper functions</strong> for tasks like random color and direction generation, ensuring the code remains <strong>modular</strong>, <strong>readable</strong>, and <strong>scalable</strong>.  
+
+<strong>**Technologies Used:**</strong>  
+HTML, CSS, JavaScript
+
+<strong>**Live Demo:**</strong>  
+[View Live Project](https://random-color-genarator-80.netlify.app/)
+
+<strong>**Image:**</strong>  
+<img width="1256" height="568" alt="Screenshot 2026-01-27 121242" src="https://github.com/user-attachments/assets/5e8a9580-6a6e-42ce-876d-d0bc5ddb92d9" />
+
+<br>
 
 <h2>🎯 Goal</h2>
 <p>
