@@ -104,7 +104,22 @@ HTML, CSS, JavaScript
 <img width="1256" height="568" alt="Screenshot 2026-01-27 121242" src="https://github.com/user-attachments/assets/5e8a9580-6a6e-42ce-876d-d0bc5ddb92d9" />
 
 <br>
+<p align="center"> <h3> Day 6 – BMI Calculator Application</h3>
 
+**Project Overview:**
+<br>The <strong>BMI Calculator application</strong> is an interactive <strong>front-end web project</strong> designed to help users quickly evaluate their <strong>Body Mass Index (BMI)</strong> using height and weight inputs. The application enables users to <strong>enter personal details</strong>, calculate BMI instantly on button click, and view both the <strong>calculated BMI value</strong> and the corresponding <strong>health category</strong> such as underweight, normal weight, overweight, or obese — all without reloading the page.<br>
+This project emphasizes <strong>real-time DOM manipulation</strong> through <strong>JavaScript event handling</strong>, allowing the interface to update dynamically in response to user interactions. It demonstrates the use of <strong>input validation</strong> to handle empty or invalid values, <strong>mathematical logic</strong> to apply the standard BMI formula, and <strong>conditional statements</strong> to classify results accurately. Additionally, the project focuses on creating a <strong>clean, user-friendly interface</strong> with immediate feedback, reinforcing core JavaScript concepts such as event listeners, DOM access, and dynamic content updates.
+
+**Technologies Used:**
+HTML, CSS, JavaScript
+
+**Live Demo:**  
+[View Live Project](https://bmi-calculator-80.netlify.app/)
+
+**<strong>Image:</strong>**<br>
+<img width="1188" height="566" alt="Screenshot 2026-01-28 154258" src="https://github.com/user-attachments/assets/c9bd284f-a178-43fc-9b54-440825ed86ed" />
+
+</p>
 <h2>🎯 Goal</h2>
 <p>
 To stay consistent, learn by building, and strengthen core web development fundamentals.
