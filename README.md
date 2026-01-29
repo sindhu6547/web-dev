@@ -120,6 +120,23 @@ HTML, CSS, JavaScript
 <img width="1188" height="566" alt="Screenshot 2026-01-28 154258" src="https://github.com/user-attachments/assets/c9bd284f-a178-43fc-9b54-440825ed86ed" />
 
 </p>
+
+<p align="center"> <h3> Day 7 – Tip Calculator Application</h3>
+
+**Project Overview:**
+<br>The <strong>Tip Calculator application</strong> is a simple yet practical <strong>front-end web project</strong> designed to help users calculate the <strong>tip amount</strong>, <strong>total bill</strong>, and <strong>per-person cost</strong> based on the entered bill amount, tip percentage, and number of people. The application allows users to <strong>input billing details</strong> and instantly view accurate calculations on button click — all without reloading the page.<br>
+This project highlights <strong>dynamic DOM manipulation</strong> using <strong>JavaScript event handling</strong>, enabling real-time updates of calculated values in the user interface. It demonstrates the implementation of <strong>input validation</strong> to handle invalid or empty entries, <strong>mathematical calculations</strong> to compute the tip and total amounts, and <strong>conditional logic</strong> to ensure correct results for edge cases such as zero or negative values. The project also focuses on building a <strong>clean, user-friendly interface</strong> with immediate visual feedback, reinforcing essential JavaScript concepts including event listeners, DOM selection, number conversion, and dynamic content rendering.
+
+**Technologies Used:**
+HTML, CSS, JavaScript
+
+**Live Demo:**
+[View Live Project](https://tip-calculator-80.netlify.app/)
+
+**<strong>Image:</strong><br>**
+<img width="1188" height="540" alt="Screenshot 2026-01-29 100801" src="https://github.com/user-attachments/assets/b010db96-1eff-4c5c-8614-d8c43a341bd2" />
+
+</p>
 <h2>🎯 Goal</h2>
 <p>
 To stay consistent, learn by building, and strengthen core web development fundamentals.
