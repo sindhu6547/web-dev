@@ -212,6 +212,53 @@ HTML, CSS, JavaScript
 <img width="811" height="500" alt="Screenshot 2026-02-02 120343" src="https://github.com/user-attachments/assets/14b72a91-76c9-47ea-a8fc-9f6701151af1" />
 
 </p>
+<p align="center">
+  <h3>Day 12 – Countdown Timer (Enhanced)</h3>
+
+  <strong><strong>Project Overview:</strong></strong>
+  <br>
+  The <strong>Countdown Timer</strong> is a practical and interactive
+  <strong>front-end web project</strong> that allows users to set a
+  <strong>custom future date and time</strong> and view a live countdown in
+  <strong>days, hours, minutes, and seconds</strong>.  
+  The application dynamically updates the timer every second using
+  <strong>JavaScript timers</strong> and performs accurate
+  <strong>date and time calculations</strong> without requiring a page reload.
+  It includes essential controls such as <strong>start</strong>,
+  <strong>pause / resume</strong>, and <strong>reset</strong>, providing full
+  control over the countdown process.
+
+  To enhance usability, the project uses <strong>LocalStorage</strong> to
+  <strong>persist the timer state</strong>, ensuring that the countdown
+  automatically resumes even after a page refresh. An
+  <strong>alert notification</strong> is triggered when the countdown reaches
+  zero, improving user feedback.  
+  The user interface is designed to be <strong>clean, minimal, and responsive</strong>,
+  making the timer easy to understand and visually clear across different screen sizes.
+  This project demonstrates real-world usage of
+  <strong>timers</strong>, <strong>date math</strong>,
+  <strong>event handling</strong>, and <strong>DOM manipulation</strong>.
+
+  <strong><strong>Technologies Used:</strong></strong>
+  <br>
+  HTML, CSS, JavaScript  
+
+  <strong><strong>Key Features:</strong></strong>
+  <br>
+  • Custom date & time selection  
+  • Live countdown display (Days, Hours, Minutes, Seconds)  
+  • Pause and resume functionality  
+  • Alert when countdown finishes  
+  • Auto-save and restore using LocalStorage  
+
+  <strong><strong>Live Demo:</strong></strong>
+  <br>
+  <a href="https://countdown-timer-80.netlify.app/">View Live Demo</a>
+  
+  <strong><strong>Image:</strong></strong><br>
+<img width="888" height="476" alt="Screenshot 2026-02-03 214035" src="https://github.com/user-attachments/assets/3408761f-594b-4c38-b57d-a7ad7cfb49dd" />
+
+</p>
 
 <h2>🎯 Goal</h2>
 <p>
