@@ -242,15 +242,7 @@ HTML, CSS, JavaScript
   <strong><strong>Technologies Used:</strong></strong>
   <br>
   HTML, CSS, JavaScript  
-
-  <strong><strong>Key Features:</strong></strong>
-  <br>
-  • Custom date & time selection  
-  • Live countdown display (Days, Hours, Minutes, Seconds)  
-  • Pause and resume functionality  
-  • Alert when countdown finishes  
-  • Auto-save and restore using LocalStorage  
-
+ 
   <strong><strong>Live Demo:</strong></strong>
   <br>
   <a href="https://countdown-timer-80.netlify.app/">View Live Demo</a>
@@ -259,7 +251,25 @@ HTML, CSS, JavaScript
 <img width="888" height="476" alt="Screenshot 2026-02-03 214035" src="https://github.com/user-attachments/assets/3408761f-594b-4c38-b57d-a7ad7cfb49dd" />
 
 </p>
+<p align="center">
+  <h3>Day 13 - Notes App</h3>
+ 
+  <strong><strong>Project Overview:</strong></strong>
+The **Notes App** is a simple and beginner-friendly **front-end web application** that allows users to add and delete notes in a clean and intuitive interface. The app displays an empty state message when no notes are available, helping users clearly understand the current state of the application.
 
+The application uses **LocalStorage** to persist notes, ensuring that data remains saved even after refreshing or reopening the browser. This project demonstrates essential **JavaScript concepts** such as DOM manipulation, event handling, array operations, and basic CRUD functionality.
+  <strong><strong>Technologies Used:</strong></strong>
+  <br>
+  HTML, CSS, JavaScript  
+ 
+  <strong><strong>Live Demo:</strong></strong>
+  <br>
+  <a href="https://notes-app-80.netlify.app/">View Live Demo</a>
+  
+  <strong><strong>Image:</strong></strong><br>
+<img width="748" height="441" alt="Screenshot 2026-02-04 180404" src="https://github.com/user-attachments/assets/eb41397d-e3dc-4714-91b8-82b0bddbc6d6" />
+
+</p>
 <h2>🎯 Goal</h2>
 <p>
 To stay consistent, learn by building, and strengthen core web development fundamentals.
