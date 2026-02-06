@@ -286,7 +286,26 @@ This project focuses on practicing JavaScript logic, DOM manipulation, and basic
   <a href="https://notes-app-80.netlify.app/">View Live Demo</a>
   
   <strong><strong>Image:</strong></strong><br>
-<img width="748" height="441" alt="Screenshot 2026-02-04 180404" src="https://github.com/user-attachments/assets/eb41397d-e3dc-4714-91b8-82b0bddbc6d6" />
+<img width="641" height="488" alt="Screenshot 2026-02-06 220648" src="https://github.com/user-attachments/assets/a701c877-ed7d-45c9-9c9e-851968a069fa" />
+
+</p>
+
+<p align="center">
+  <h3>Day 15 - Form Validation</h3>
+  <strong>Project Overview:</strong>
+The **Form Validation Project** is a beginner-friendly web application built using **HTML, CSS, and JavaScript** that demonstrates how client-side form validation works. The application checks user inputs before allowing form submission, ensuring that all required fields are filled with valid data.
+
+This project focuses on validating essential form fields such as **name, email, password, and confirm password**, and provides clear error messages to guide users. It is a practical example of improving user experience and data accuracy in modern web applications.
+ <strong><strong>Technologies Used:</strong></strong>
+  <br>
+  HTML, CSS, JavaScript  
+ 
+  <strong><strong>Live Demo:</strong></strong>
+  <br>
+  <a href="https://form-validation-80.netlify.app/">View Live Demo</a>
+  
+  <strong><strong>Image:</strong></strong><br>
+  <img width="712" height="499" alt="Screenshot 2026-02-06 220326" src="https://github.com/user-attachments/assets/ea915368-9df0-46d4-8e0b-4e19476decfa" />
 
 </p>
 <h2>🎯 Goal</h2>
