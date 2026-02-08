@@ -292,7 +292,7 @@ This project focuses on practicing JavaScript logic, DOM manipulation, and basic
 
 <p align="center">
   <h3>Day 15 - Form Validation</h3>
-  <strong>Project Overview:</strong>
+  <strong>Project Overview:</strong>    <br>
 The **Form Validation Project** is a beginner-friendly web application built using **HTML, CSS, and JavaScript** that demonstrates how client-side form validation works. The application checks user inputs before allowing form submission, ensuring that all required fields are filled with valid data.
 
 This project focuses on validating essential form fields such as **name, email, password, and confirm password**, and provides clear error messages to guide users. It is a practical example of improving user experience and data accuracy in modern web applications.
@@ -324,6 +324,23 @@ This project demonstrates practical usage of **JavaScript DOM manipulation**, **
   
   <strong><strong>Image:</strong></strong>   
 <img width="794" height="414" alt="Screenshot 2026-02-07 163649" src="https://github.com/user-attachments/assets/dda14b30-196f-4934-b6c6-d4c88293d740" />
+
+</p>
+<p align="center">
+  <h3>Day 17-Currency Converter</h3>
+  <strong>Project Overview:</strong>   <br>                   
+The <strong>Currency Converter</strong> is a simple web application built using <strong>HTML, CSS, and JavaScript</strong> that allows users to convert an amount from one currency to another using <strong>real-time exchange rates</strong>.
+
+The application fetches <strong>live currency data from an exchange rate API</strong> and dynamically updates currency options. This project helps in understanding <strong>DOM manipulation</strong>,<strong>API integration using fetch</strong>, <strong>asynchronous JavaScript with async/await</strong>, and <strong>basic input validation</strong>. It is <strong>beginner-friendly</strong> and suitable for a <strong>front-end developer portfolio</strong>.  <br>    
+ <strong><strong>Technologies Used:</strong></strong>
+  <br>
+  HTML, CSS, JavaScript  
+ 
+  <strong><strong>Live Demo:</strong></strong>
+  <a href="https://currency-converter-80.netlify.app/">View Live Demo</a>
+  
+  <strong><strong>Image:</strong></strong>   
+  <img width="673" height="352" alt="Screenshot 2026-02-08 185549" src="https://github.com/user-attachments/assets/ee6280e2-41f0-45c4-94df-84fb79ddb311" />
 
 </p>
 <h2>🎯 Goal</h2>
