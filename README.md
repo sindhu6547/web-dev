@@ -343,6 +343,22 @@ The application fetches <strong>live currency data from an exchange rate API</st
   <img width="673" height="352" alt="Screenshot 2026-02-08 185549" src="https://github.com/user-attachments/assets/ee6280e2-41f0-45c4-94df-84fb79ddb311" />
 
 </p>
+<p align="center">
+  <h3>Day 18 - Movie Search Application</h3>
+  <strong>Project Overview:</strong>   <br>                   
+The <strong>Movie Search Application</strong> is a simple web application built using <strong>HTML, CSS, and JavaScript</strong> that allows users to search for movies and view details such as <strong>title, poster, release year, and plot</strong> using a <strong>movie database API</strong>.
+
+The application fetches <strong>real-time movie data from an external API</strong> and dynamically displays search results based on user input. This project helps in understanding <strong>DOM manipulation</strong>, <strong>API integration using fetch</strong>, <strong>asynchronous JavaScript with async/await</strong>, and <strong>basic error handling and input validation</strong>. It is <strong>beginner-friendly</strong> and suitable for a <strong>front-end developer portfolio</strong>.
+<br>
+  HTML, CSS, JavaScript  
+ 
+  <strong><strong>Live Demo:</strong></strong>
+  <a href="https://movie-search-application-80.netlify.app/">View Live Demo</a>
+  
+  <strong><strong>Image:</strong></strong>   
+  <img width="588" height="267" alt="Screenshot 2026-02-09 182515" src="https://github.com/user-attachments/assets/e3e896b2-c447-4c1a-9d89-0e2de6532b29" />
+
+</p>
 <h2>🎯 Goal</h2>
 <p>
 To stay consistent, learn by building, and strengthen core web development fundamentals.
