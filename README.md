@@ -377,6 +377,22 @@ The application dynamically updates the <strong>income, expense, and balance val
 <img width="899" height="530" alt="Screenshot 2026-02-10 223427" src="https://github.com/user-attachments/assets/dba9d2f1-3505-4469-846d-a575ac09cc56" />
 
 </p>
+<p align="center">
+  <h3>Day 20 - Quiz Application</h3>
+<strong>Project Overview:</strong> <br>
+The <strong>Quiz Application</strong> is a simple web application built using <strong>HTML, CSS, and JavaScript</strong> that allows users to answer <strong>multiple-choice questions</strong>, calculate their <strong>final score</strong>, and restart the quiz after completion.
+
+The application dynamically updates the <strong>questions and answer options</strong> based on user interaction, highlights the <strong>correct and incorrect answers</strong>, and displays the <strong>total score</strong> at the end of the quiz. This project helps in understanding <strong>DOM manipulation</strong>, <strong>event handling</strong>, <strong>arrays and objects</strong>, <strong>conditional statements</strong>, and <strong>basic JavaScript logic</strong>. It is <strong>beginner-friendly</strong> and suitable for a <strong>front-end developer portfolio</strong>.<br>
+ <strong><strong>Technologies Used:</strong></strong>
+  HTML, CSS, JavaScript  
+ 
+  <strong><strong>Live Demo:</strong></strong>
+  <a href="https://quiz-application-80.netlify.app/">View Live Demo</a>
+  
+  <strong><strong>Image:</strong></strong>     
+<img width="874" height="489" alt="Screenshot 2026-02-11 224222" src="https://github.com/user-attachments/assets/64d33558-3195-4787-bf74-c9e76018640c" />
+
+</p>
 <h2>🎯 Goal</h2>
 <p>
 To stay consistent, learn by building, and strengthen core web development fundamentals.
