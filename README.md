@@ -9,6 +9,23 @@ DOM manipulation, and front-end skills.
 <br>
 
 <h2> 📅 Daily Projects</h2>
+<p align="center">
+  <h3>Day 22 - Login and Signup UI</h3>
+<strong>Project Overview:</strong> <br> <br>
+The <strong>Login & Signup UI with Validation</strong> is a responsive web application built using <strong>HTML, CSS, and JavaScript</strong> that allows users to create an account and log in through a clean and professional interface. The application dynamically switches between login and signup forms without reloading the page and performs <strong>client-side validation</strong> such as required field checks, email format validation using regular expressions, minimum password length verification, and password confirmation matching.
+
+It displays <strong>real-time error messages</strong> to guide users and prevent invalid submissions, improving overall user experience. This project helps in understanding <strong>DOM manipulation</strong>, <strong>event handling</strong>, <strong>form validation logic</strong>, and <strong>basic UI/UX principles</strong>, making it a <strong>beginner-friendly</strong> and portfolio-ready front-end project.
+
+ <strong><strong>Technologies Used:</strong></strong>
+  HTML, CSS, JavaScript  
+ 
+  <strong><strong>Live Demo:</strong></strong>
+  <a href="https://login-signup-ui-80.netlify.app/">View Live Demo</a>
+  
+  <strong><strong>Image:</strong></strong>   
+  <img width="782" height="452" alt="Screenshot 2026-02-13 222121" src="https://github.com/user-attachments/assets/4abe7175-8b53-4bcb-b4f4-ab54f9b1154c" />
+</p>
+
 
 <p align="center">
   <h3>Day 21 - Github Profile Finder</h3>
